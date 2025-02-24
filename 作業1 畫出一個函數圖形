@@ -1,0 +1,8 @@
+t = np.linspace(0, 2 * np.pi, 1000)
+x = 16 * np.sin(t) ** 3
+y = 8 * np.cos(t) - 7 * np.cos(2 * t)
+plt.figure(figsize=(8, 8))
+plt.fill(x, y, color='Pink')
+plt.title('Heart Shape')
+plt.gca().set_aspect('equal')
+plt.axis('off') 
