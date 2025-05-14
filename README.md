@@ -26,9 +26,7 @@
 
 ---
 ## 作業3
-題目: GAN模型實作  
-
-連結：[使用 GAN對抗生成網路模型，來生成圖片]([https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing))  
+題目: 使用 GAN對抗生成網路模型，來生成圖片  
 
 成果：  
 ### 回答問題 
@@ -50,12 +48,13 @@ Gan生成的圖片身體軀幹似乎不太自然。
 
 ---
 ## 作業4
-
+題目: 建立自己的benchmarks  
 連結：[W4 建立自己的Benchmark](https://github.com/PanpanMOA/113-2AI-Lesson/blob/main/W4%20%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84Benchmark)  
 成果：大型語言模型輸出內容的比較成果，詳細內容請見Github筆記內容。
 
 ---
 ## 作業5
+題目：用OpenAI API打造自己的對話機器人  
 連結：[W6用Groq_API打造輔導老師式的同理回話機器人](https://colab.research.google.com/drive/1dzyHC2wVBurRVPxmgfed-oAhr879x9eB?usp=sharing)  
 
 成果：  
@@ -63,4 +62,46 @@ Gan生成的圖片身體軀幹似乎不太自然。
 
 ---
 ## 作業6
-連結：W7 用Ollama打造熱血對話機器人]
+題目：打造自己的對話機器人進階版-ollama  
+
+連結：[W7用Ollama打造熱血對話機器人](https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W7%20%E7%94%A8Ollama%E6%89%93%E9%80%A0%E7%86%B1%E8%A1%80%E5%B0%8D%E8%A9%B1%E6%A9%9F%E5%99%A8%E4%BA%BA_%E6%BD%98%E7%91%A9%E7%9C%9F.ipynb)
+
+成果：  
+![W7_ollama](https://github.com/user-attachments/assets/801122ee-4762-46aa-919d-60b64eba7cf0)  
+
+![W7冒險王](https://github.com/user-attachments/assets/a35d05d7-a364-4ef4-a015-8410ed3537ea)  
+
+---
+## 作業7
+題目：實作文獻檢索RAG系統  
+
+連結：[W8文獻檢索RAG系統](https://colab.research.google.com/drive/1afI_55gVDUCCY3ql5wL7x8LO76pjTVzG?usp=sharing)
+
+成果：  
+![螢幕擷取畫面 2025-04-14 173925](https://github.com/user-attachments/assets/f1fea250-c72a-4b6b-bea9-f9f45318d352)  
+
+![螢幕擷取畫面 2025-04-14 173911](https://github.com/user-attachments/assets/f169770d-e5cb-45cd-aec2-dc6d39922884)  
+
+---
+## 作業8
+題目：實作planing AI agent  
+
+連結：[W9-AI代理設計模式_輔導老師超同理對話生成器](https://colab.research.google.com/drive/1MoFMDqOSvnVFRj6slkBjOlqJwXhubQgt?usp=sharing)
+
+成果：  ![螢幕擷取畫面 2025-05-14 170600](https://github.com/user-attachments/assets/8724d5e3-1824-48e7-bbd5-4dacc8f8c10f)  
+
+![螢幕擷取畫面 2025-05-14 171140](https://github.com/user-attachments/assets/e4382d4a-e27e-4c2d-8fd1-17b95461a458)  
+
+---
+## 作業9
+題目:利用Bing 進行文字生圖
+
+連結：[W10 利用Bing 進行文字生圖-Diffusion modle.pdf](https://drive.google.com/file/d/1UFtuhkhdxLbL_wXKLJDXU-MJ_YI9cK7E/view?usp=sharing)
+
+成果：完整內容請見雲端pdf檔案  
+
+![螢幕擷取畫面 2025-05-14 171510](https://github.com/user-attachments/assets/0f07d8a4-735c-41d5-a4f0-61169b307db0)  
+
+---
+
+
