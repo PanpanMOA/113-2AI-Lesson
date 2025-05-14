@@ -54,4 +54,11 @@ Gan生成的圖片身體軀幹似乎不太自然。
 成果：大型語言模型輸出內容的比較成果，詳細內容請見Github筆記內容。
 
 ---
+## 作業5
+連結：[W6用Groq_API打造輔導老師式的同理回話機器人](https://colab.research.google.com/drive/1dzyHC2wVBurRVPxmgfed-oAhr879x9eB?usp=sharing)  
+
+成果：  
+![W6截圖-輔導老師的同理回話機器人](https://github.com/user-attachments/assets/1701234b-7204-411f-b403-ba3ce0ba9db7)  
+
+---
 
