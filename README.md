@@ -7,5 +7,5 @@
 
 修課學期：113-2
 
-`[作業1]([作業連結](https://github.com/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb)`
+[作業1]([作業連結](https://github.com/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb)
 
