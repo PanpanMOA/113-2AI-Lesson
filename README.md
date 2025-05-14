@@ -30,7 +30,7 @@
 連結：[使用 GAN對抗生成網路模型，來生成圖片]([https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing))  
 
 成果：  
-###回答問題 
+### 回答問題 
 為什麼在生成式圖片的應用上，大家多不再使用GAN對抗生成網路，而改用Stable diffusion？（先去思考原因，不一定需要是標準答案）
 
 如果用小朋友的畫畫遊戲來比喻，對抗生成網路GAN就像兩個小朋友在玩「一人畫一人鑑別」的遊戲，想像班上有兩個小朋友：
