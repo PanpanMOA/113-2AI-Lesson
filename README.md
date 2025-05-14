@@ -48,8 +48,10 @@ Gan生成的圖片身體軀幹似乎不太自然。
 ![W3 GAN2 身體軀幹不自然](https://github.com/user-attachments/assets/b0c9b53b-d26a-4c6c-b94c-9483febba163)  
 
 ---
+## 作業4
 
+連結：[W4 建立自己的Benchmark](https://github.com/PanpanMOA/113-2AI-Lesson/blob/main/W4%20%E5%BB%BA%E7%AB%8B%E8%87%AA%E5%B7%B1%E7%9A%84Benchmark)  
+成果：大型語言模型輸出內容的比較成果，詳細內容請見Github筆記內容。
 
-
-
+---
 
