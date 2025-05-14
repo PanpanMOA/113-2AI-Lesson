@@ -17,7 +17,7 @@
 ## 作業2
 題目：打造出神經網路，以手寫辨識為目標  
 
-連結：[W2_打造出神經網路]([[https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing)](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing))  
+連結：[W2_打造出神經網路](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing)  
 
 成果：  
 ![作業二 神經網路 手寫數字辨識 有更改的程式碼](https://github.com/user-attachments/assets/11532c3e-6792-4a7d-a4db-288d860b6837)  
