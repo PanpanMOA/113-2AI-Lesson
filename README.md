@@ -103,5 +103,17 @@ Gan生成的圖片身體軀幹似乎不太自然。
 ![螢幕擷取畫面 2025-05-14 171510](https://github.com/user-attachments/assets/0f07d8a4-735c-41d5-a4f0-61169b307db0)  
 
 ---
+## 作業10
+題目：Stable Diffusion 實作
 
+連結：[W11-Stable Diffusion 實作](https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W11_%E6%89%93%E9%80%A0Stable_Diffusion%E7%9A%84WebUI.ipynb)  
+
+成果：  
+![螢幕擷取畫面 2025-05-14 172233](https://github.com/user-attachments/assets/497a1018-c37d-41e5-b559-bc708646850f)  
+
+![Stable Diffusion 實作-網站截圖](https://github.com/user-attachments/assets/652cca15-33c3-4e23-b024-ed78a6f0983a)  
+
+---
+## 作業11
+題目：用Fooocus生成圖片 
 
