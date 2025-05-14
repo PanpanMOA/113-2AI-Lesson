@@ -26,6 +26,7 @@
 
 ---
 ## 作業3
+題目: GAN模型實作  
 
 連結：[使用 GAN對抗生成網路模型，來生成圖片]([https://colab.research.google.com/github/PanpanMOA/113-2AI-Lesson/blob/main/W1_%E5%87%BD%E6%95%B8%E5%9C%96%E5%BD%A2.ipynb](https://colab.research.google.com/drive/1RTl_6m6aUA8LxLpwZ7293m1ix_wA0hwo?usp=sharing))  
 
@@ -61,4 +62,5 @@ Gan生成的圖片身體軀幹似乎不太自然。
 ![W6截圖-輔導老師的同理回話機器人](https://github.com/user-attachments/assets/1701234b-7204-411f-b403-ba3ce0ba9db7)  
 
 ---
-
+## 作業6
+連結：W7 用Ollama打造熱血對話機器人]
