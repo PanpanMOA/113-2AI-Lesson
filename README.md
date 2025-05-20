@@ -116,6 +116,7 @@ Gan生成的圖片身體軀幹似乎不太自然。
 ---
 ## 作業11
 題目：用Fooocus生成圖片 
+
 連結：[fooocus實作](https://drive.google.com/file/d/1rIlTP2ILzJ3hKOgqIRFFlxIJQDfbrx9a/view?usp=drive_link)  
 
 成果：
