@@ -126,4 +126,19 @@ Gan生成的圖片身體軀幹似乎不太自然。
 ![螢幕擷取畫面 2025-05-20 102829](https://github.com/user-attachments/assets/0af3d3fa-c1f7-4509-93b5-d07cfddd7ab3)
 
 ---
+---
+## 作業12 期末專案構想與提案
+
+題目：生成式AI應用於藝術創作之實證研究  
+
+說明：期末專案為採用實踐導向的研究方法，將藝術創作的實踐作為研究的核心，採用多種創作方法進行實驗，包括手繪、AI 生成圖片、將自己的作品數位化後進行再生成，以及參考 AI 作品進行創作等方式。研究設計包含五種的創作情境，並針對同一主題進行多種方式的創作。  
+
+部分成果：
+手繪（水彩）
+![IMG_4110](https://github.com/user-attachments/assets/38a527be-3fa5-459c-a922-23fda7c5b855)
+
+text to images 以指令生成圖片  
+![peterpanart_A_watercolor_picture_of_a_group_of_kids_having_a__919c7ccc-04bf-41b1-890d-3adb39aa7171_2](https://github.com/user-attachments/assets/439a1025-7ee5-482b-acbf-c39758097480)
+
+
 
