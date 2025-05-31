@@ -140,5 +140,17 @@ Gan生成的圖片身體軀幹似乎不太自然。
 text to images 以指令生成圖片  
 ![peterpanart_A_watercolor_picture_of_a_group_of_kids_having_a__919c7ccc-04bf-41b1-890d-3adb39aa7171_2](https://github.com/user-attachments/assets/439a1025-7ee5-482b-acbf-c39758097480)
 
+---
+## 期末專案-生成式AI應用於藝術創作之實證研究  
+
+說明：這份專案旨在探索藝術創作與人工智慧（AI）應用之間更多的可能性，嘗試在技術與創意之間建立更緊密的連結。雖然專案中的實作內容多為過去完成的作品，但在本學期的進一步學習與反思中，我嘗試地理解了AI
+生成圖像的基本原理，包括其資料訓練模式、風格轉換機制與輸出控制方式。這些新知識促使我重新思考既有作品背後的創作邏輯，也驅使我進一步檢視AI在創作過程中所扮演的角色。也補充了相關的參考文獻，透過這些文獻的輔助，在論文撰寫中重新架構研究問題與分析脈絡。
+
+完整專案內容請見連結：  
+[生成式AI應用於藝術創作之實證研究pdf](https://drive.google.com/file/d/1Rd8eykKgs9OL1xcsp7iTAoeAcCTXfx2G/view?usp=sharing)  
+
+專案亮點：研究中包含五種創作模式，共13張圖片。
+![螢幕擷取畫面 期末專案-生成式AI應用於藝術創作之實證研究](https://github.com/user-attachments/assets/39f7997a-1c74-4f31-b4ff-f6bf882a1926)  
+
 
 
